@@ -1,17 +1,46 @@
-# skillpath
+# SkillPath — Mobile Learning App
 
-A new Flutter project.
+A cross-platform mobile learning app built with Flutter.
 
-## Getting Started
+## Vision
+To make learning simple, accessible, and engaging by connecting users 
+with educational programs, resources, and real-time updates in one platform.
 
-This project is a starting point for a Flutter application.
+## Objectives
+- Cross-platform development (Android & iOS) using Flutter
+- User authentication (Email + Google Sign-In)
+- Program discovery with category filters
+- Progress tracking and completion certificates
+- Admin dashboard for content and user management
 
-A few resources to get you started if this is your first Flutter project:
+## Navigation Flow
+Login → Home → Program Listing → Program Detail → Enroll → Learner Dashboard
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+##SkillPath — Low-Fidelity Wireframes for Core App Screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1673" height="789" alt="image" src="https://github.com/user-attachments/assets/a8ebc69d-edbd-4565-a54d-781e52f54dbb" />
+
+
+## Team
+| Name | Role |
+|------|------|
+| Praise Esheya | Team Lead |
+| Damian Amegashie | Project Manager |
+| Ruth Nwosu | Project Scribe |
+| Asma Shahzadi | Project Lead |
+| Nanubala Sravani | UI/UX Designer |
+| Anindya Roy | Team Member |
+| Soumya Das | Team Member |
+| Pratyush Srivastava | Team Member |
+
+## Setup
+1. Install Flutter SDK (>=3.0.0)
+2. Clone this repo
+3. Run `flutter pub get`
+4. Run `flutter run`
+
+## Week 1 Status
+- [x] App proposal documented
+- [x] Wireframes designed (Login, Home, Program Listing, Program Detail)
+- [x] GitHub repo initialized
+- [x] UI screens (Week 2)
